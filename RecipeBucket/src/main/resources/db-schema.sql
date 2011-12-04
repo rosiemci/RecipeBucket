@@ -1,0 +1,1 @@
+create table if not exists RECIPE (id varchar(250), name varchar(250), description varchar(250), numservings varchar(250), servingSize varchar(250), postedBy varchar(250), preparationTime varchar(250), cookingTime varchar(250), ingredients varchar(250), method varchar(250), primary key(id))
